@@ -1,4 +1,4 @@
-## Secure_Password_Generator
+## SecurePasswordGenerator
 
 ### Программа принимает следующие параметры:
 Количество паролей для генерации;  
